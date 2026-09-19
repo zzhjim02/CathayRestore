@@ -147,15 +147,14 @@
 
 | 下载方式 | 链接 |
 |:-------|:-----|
-| 📥 **中国移动云盘**（推荐） | [点击下载](<待填：中国移动云盘分享链接>) |
-| 📥 **百度网盘**（备用，密码 2026） | [点击下载](<待填：百度网盘分享链接>) |
-| 🐙 **GitHub Releases** | [CathayRestore v1.0.0](https://github.com/zzhjim02/CathayRestore/releases/tag/v1.0.0) |
+| 📥 **百度网盘**（密码 2026） | [CathayRestore TXT写回PDF软件](https://pan.baidu.com/s/10DR1IWDQTAJO15Y2nGVXTg?pwd=2026) |
+| 🐙 **GitHub Releases** | [CathayRestore v1.0.0](https://github.com/zzhjim02/CathayRestore/releases/tag/v1.0.0)（Assets 里可直接下 exe） |
 
 **包内包含：**
 
 | 文件 | 说明 |
 |:-----|:-----|
-| `CathayRestore.exe` | **单文件版**，约 67 MB，双击即用（推荐） |
+| `CathayRestore-v1.0.0.exe` | **单文件版**，约 67 MB，双击即用（GitHub Release 附件 / 网盘内亦有） |
 | `写回.bat` + `runtime\` | **便携版**，自带 Python，约 89 MB；脚本式启动，改代码后立即生效 |
 | `app.ico` / `CathayRestore.lnk` | 图标与快捷方式 |
 | `打包EXE.bat` | 一键重新打包成单文件 exe |
