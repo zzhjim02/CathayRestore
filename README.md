@@ -27,12 +27,12 @@
 | ① | [**CathayOCR** →](https://github.com/zzhjim02/CathayOCR) | 📄 多引擎 GPU 加速古籍 PDF 批处理 OCR | ✅ v1.2.4 |
 | ② | **⭐ CathayRestore（你在这里）** | 🔎 **把 OCR 的 TXT 按页写回 PDF（竖排/透明/可搜索）** | 🆕 **v1.0.0** |
 | ③ | [**CathaySimplify** →](https://github.com/zzhjim02/CathaySimplify) | 🔄 TXT 繁简体批量双向转换 · 编码智能适配 | ✅ v1.0.0 |
-| ④ | [**CathayReader** →](https://github.com/zzhjim02/CathayReader) | 📖 PDF/TXT 双栏同步古籍校勘阅读器 | ✅ v1.0.0 |
-| ⑤ | [**CathayShelf** →](https://github.com/zzhjim02/CathayShelf) | 🗂️ 图书著录建夹 · 后缀替换 · 繁简转换+编码规范化 | ✅ v0.4.3 |
+| ④ | [**CathayShelf** →](https://github.com/zzhjim02/CathayShelf) | 🗂️ 图书著录建夹 · 后缀替换 · 繁简转换+编码规范化 | ✅ v0.4.3 |
+| ⑤ | [**CathayReader** →](https://github.com/zzhjim02/CathayReader) | 📖 PDF/TXT 双栏同步古籍校勘阅读器 | ✅ v1.0.0 |
 
 </div>
 
-**五步完成古籍数字化：** `CathayOCR` 批量识别 → `CathayRestore` 修好文本层 → `CathaySimplify` 繁简统一 → `CathayReader` 双栏校勘 → `CathayShelf` 著录归架
+**五步完成古籍数字化：** `CathayOCR` 批量识别 → `CathayRestore` 修好文本层 → `CathaySimplify` 繁简统一 → `CathayShelf` 著录归架 → `CathayReader` 双栏校勘
 
 > 📌 **这是本仓库（CathayRestore）** — 工作流第 2 步，负责让扫描件"可检索"。
 > 本来它是 [CathayOCR](https://github.com/zzhjim02/CathayOCR) 安装包里的小工具（`TXT写回工具\`），现在**独立成一个软件**，不必再依赖 CathayOCR 的便携目录。
