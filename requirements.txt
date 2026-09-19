@@ -1,0 +1,6 @@
+# CathayRestore-DEV 依赖（安装： py -3 -m pip install -r requirements.txt）
+# 核心：读写 PDF + 透明文字层写回
+pymupdf
+
+# 可选：不装也能用，只是不能把文件夹拖进窗口
+tkinterdnd2
