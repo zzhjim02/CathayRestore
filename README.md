@@ -299,6 +299,7 @@ CathayRestore-DEV/
 | CathaySimplify | [github.com/zzhjim02/CathaySimplify](https://github.com/zzhjim02/CathaySimplify) | TXT 繁简体批量双向转换 |
 | CathayReader | [github.com/zzhjim02/CathayReader](https://github.com/zzhjim02/CathayReader) | PDF/TXT 双栏同步校勘阅读器 |
 | CathayShelf | [github.com/zzhjim02/CathayShelf](https://github.com/zzhjim02/CathayShelf) | 图书著录建夹 · 后缀替换 · 繁简/编码 |
+| CathayDir | [github.com/zzhjim02/CathayDir](https://github.com/zzhjim02/CathayDir) | 批量判断 PDF 横排 / 竖排 |
 
 ⭐ **扫描件要能搜，才算数字化完成。**
 
