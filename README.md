@@ -162,7 +162,7 @@
 
 | 下载方式 | 链接 |
 |:-------|:-----|
-| 📥 **百度网盘**（密码 2026） | [CathayRestore TXT写回PDF软件](https://pan.baidu.com/s/10DR1IWDQTAJO15Y2nGVXTg?pwd=2026) |
+| 📥 **百度网盘**（密码 2026） | [CathayRestore TXT写回PDF软件](https://pan.baidu.com/s/18lzLknW_NIwzvGSM8iN8NQ?pwd=2026) |
 | 🐙 **GitHub Releases** | [CathayRestore v1.0.0](https://github.com/zzhjim02/CathayRestore/releases/tag/v1.0.0)（Assets 里可直接下 exe） |
 
 **包内包含：**
